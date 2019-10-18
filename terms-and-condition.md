@@ -1,5 +1,5 @@
 <h3>1. Your relationship with Mad Scientist Technologies</h3>
-1.1 Your use of Mad Scientist Technologies’ products, software, services and web sites (referred to collectively as the “Services” in this document and excluding any services provided to you by Mad Scientist Technologies under a separate written agreement) is subject to the terms of a legal agreement between you and Mad Scientist Technologies. “Mad Scientist Technologies” means Mad Scientist Technologies, Inc., whose principal place of business is at 3100 State Street, Suite A4, Quincy, Illinois 62301, United States. This document explains how the agreement is made up, and sets out some of the terms of that agreement.
+1.1 Your use of Mad Scientist Technologies’ products, software, services and web sites (referred to collectively as the “Services” in this document and excluding any services provided to you by Mad Scientist Technologies under a separate written agreement) is subject to the terms of a legal agreement between you and Mad Scientist Technologies. “Mad Scientist Technologies” means Chris Holbrook d/b/a Mad Scientist Technologies, whose principal place of business is at 3100 State Street, Suite A4, Quincy, Illinois 62301, United States. This document explains how the agreement is made up, and sets out some of the terms of that agreement.
 
 1.2 Unless otherwise agreed in writing with Mad Scientist Technologies, your agreement with Mad Scientist Technologies will always include, at a minimum, the terms and conditions set out in this document. These are referred to below as the “Terms”.
 
@@ -19,7 +19,7 @@
 
 2.3 You may not use the Services and may not accept the Terms if (a) you are not of legal age to form a binding contract with Mad Scientist Technologies, or (b) you are a person barred from receiving the Services under the laws of the United States or other countries including the country in which you are resident or from which you use the Services.
 
-2.4 Before you continue, you should print off or save a local copy of the Universal Terms for your records.
+2.4 Before you continue, you should print off or save a local copy of the these Terms for your records.
 <h3>3. Provision of the Services by Mad Scientist Technologies</h3>
 3.1 Mad Scientist Technologies has subsidiaries and affiliated legal entities (“Subsidiaries and Affiliates”). Sometimes, these companies will be providing the Services to you on behalf of Mad Scientist Technologies itself. You acknowledge and agree that Subsidiaries and Affiliates will be entitled to provide the Services to you.
 
@@ -45,7 +45,7 @@
 
 5.2 Accordingly, you agree that you will be solely responsible to Mad Scientist Technologies for all activities that occur under your account.
 
-5.3 If you become aware of any unauthorized use of your password or of your account, you agree to notify Mad Scientist Technologies immediately via email: <a href="mailto:staff@madscitech.com?subject=Account Security Compromise">staff@madscitech.com</a>.
+5.3 If you become aware of any unauthorized use of your account, you agree to notify Mad Scientist Technologies immediately via email: <a href="mailto:staff@madscitech.com?subject=Account Security Compromise">staff]at[madscitech]dot[com</a>.
 <h3>6. Privacy and your personal information</h3>
 6.1 For information about Mad Scientist Technologies’ data protection practices, please read Mad Scientist Technologies’ privacy policy at <a href="http://madscitech.com/about/privacy/">http://madscitech.com/about/privacy/</a>. This policy explains how Mad Scientist Technologies treats your personal information, and protects your privacy, when you use the Services.
 
@@ -62,30 +62,36 @@
 8.2 You acknowledge and agree that Mad Scientist Technologies is not responsible for the availability of any such external sites or resources, and does not endorse any advertising, products or other materials on or available from such web sites or resources.
 
 8.3 You acknowledge and agree that Mad Scientist Technologies is not liable for any loss or damage which may be incurred by you as a result of the availability of those external sites or resources, or as a result of any reliance placed by you on the completeness, accuracy or existence of any advertising, products or other materials on, or available from, such web sites or resources.
-<h3>9. User Generated Content</h3>
-9.1 As a member of the Mad Scientist Technologies’ Community you may post textual content to the Services, this content will be referred to below as “User-generated Content”.
+<h3>9. Third Party Content</h3>
+9.1 Mad Scientist Technologies is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com.
 
-9.2 Mad Scientist Technologies does not prescreen User-generated Content. Mad Scientist Technologies retains the rights but not the responsibility to edit or remove any User Generated Content or terminate your access to the Services for any reason, at its sole discretion.
+9.1.1 What this means is some links on our website and/or in client communications, may include links to Amazon.
 
-9.3 You are responsible for ensuring that any User-generated Content that you post does not, and will not; violate the rights of any third party rights of any kind. You warrant and represent that you own or control all rights in any User-generated Content that you post to the Services.
+9.2 Amazon Services LLC does not support, sponsor and/or endorse, Mad Scientist Technologies in any way, directly or implied.
+<h3>10. User Generated Content</h3>
+10.1 As a member of the Mad Scientist Technologies’ Community you may post textual content to the Services, this content will be referred to below as “User-generated Content”.
 
-9.4 Your User-generated Content is not confidential or proprietary. You grant to Mad Scientist Technologies a non-exclusive, non-revocable, worldwide, perpetual right to use your User Generated Content in any manner or media now or later known without limitation including but not limited to the right to sublicense and assign and commercialize without any compensation due to you.
-<h3>10. Proprietary rights</h3>
-10.1 You acknowledge and agree that Mad Scientist Technologies (or Mad Scientist Technologies’ licensors) own all legal right, title and interest in and to the Services, including any intellectual property rights which subsist in the Services (whether those rights happen to be registered or not, and wherever in the world those rights may exist). You further acknowledge that the Services may contain information which is designated confidential by Mad Scientist Technologies and that you shall not disclose such information without Mad Scientist Technologies’ prior written consent.
+10.2 Mad Scientist Technologies does not prescreen User-generated Content. Mad Scientist Technologies retains the rights but not the responsibility to edit or remove any User Generated Content or terminate your access to the Services for any reason, at its sole discretion.
 
-10.2 Unless you have agreed otherwise in writing with Mad Scientist Technologies, nothing in the Terms gives you a right to use any of Mad Scientist Technologies’ trade names, trade marks, service marks, logos, domain names, and other distinctive brand features.
+10.3 You are responsible for ensuring that any User-generated Content that you post does not, and will not; violate the rights of any third party rights of any kind. You warrant and represent that you own or control all rights in any User-generated Content that you post to the Services.
 
-10.3 If you have been given an explicit right to use any of these brand features in a separate written agreement with Mad Scientist Technologies, then you agree that your use of such features shall be in compliance with that agreement, any applicable provisions of the Terms, and Mad Scientist Technologies’ brand feature use guidelines as updated from time to time.
+10.4 Your User-generated Content is not confidential or proprietary. You grant to Mad Scientist Technologies a non-exclusive, non-revocable, worldwide, perpetual right to use your User Generated Content in any manner or media now or later known without limitation including but not limited to the right to sublicense and assign and commercialize without any compensation due to you.
+<h3>11. Proprietary rights</h3>
+11.1 You acknowledge and agree that Mad Scientist Technologies (or Mad Scientist Technologies’ licensors) own all legal right, title and interest in and to the Services, including any intellectual property rights which subsist in the Services (whether those rights happen to be registered or not, and wherever in the world those rights may exist). You further acknowledge that the Services may contain information which is designated confidential by Mad Scientist Technologies and that you shall not disclose such information without Mad Scientist Technologies’ prior written consent.
 
-10.4 You agree that you shall not remove, obscure, or alter any proprietary rights notices (including copyright and trade mark notices) which may be affixed to or contained within the Services.
+11.2 Unless you have agreed otherwise in writing with Mad Scientist Technologies, nothing in the Terms gives you a right to use any of Mad Scientist Technologies’ trade names, trade marks, service marks, logos, domain names, and other distinctive brand features.
 
-10.5 Unless you have been expressly authorized to do so in writing by Mad Scientist Technologies, you agree that in using the Services, you will not use any trade mark, service mark, trade name, logo of any company or organization in a way that is likely or intended to cause confusion about the owner or authorized user of such marks, names or logos.
-<h3>11. Ending your relationship with Mad Scientist Technologies</h3>
-11.1 The Terms will continue to apply until terminated by either you or Mad Scientist Technologies as set out below.
+11.3 If you have been given an explicit right to use any of these brand features in a separate written agreement with Mad Scientist Technologies, then you agree that your use of such features shall be in compliance with that agreement, any applicable provisions of the Terms, and Mad Scientist Technologies’ brand feature use guidelines as updated from time to time.
 
-11.2 If you want to terminate your legal agreement with Mad Scientist Technologies, you may do so by (a) notifying Mad Scientist Technologies at any time and (b) closing your accounts for all of the Services which you use, where Mad Scientist Technologies has made this option available to you. Your notice should be sent, in writing, to Mad Scientist Technologies’ address which is set out at the beginning of these Terms.
+11.4 You agree that you shall not remove, obscure, or alter any proprietary rights notices (including copyright and trade mark notices) which may be affixed to or contained within the Services.
 
-11.3 Mad Scientist Technologies may at any time, terminate its legal agreement with you if:
+11.5 Unless you have been expressly authorized to do so in writing by Mad Scientist Technologies, you agree that in using the Services, you will not use any trade mark, service mark, trade name, logo of any company or organization in a way that is likely or intended to cause confusion about the owner or authorized user of such marks, names or logos.
+<h3>12. Ending your relationship with Mad Scientist Technologies</h3>
+12.1 The Terms will continue to apply until terminated by either you or Mad Scientist Technologies as set out below.
+
+12.2 If you want to terminate your legal agreement with Mad Scientist Technologies, you may do so by (a) notifying Mad Scientist Technologies at any time and (b) closing your accounts for all of the Services which you use, where Mad Scientist Technologies has made this option available to you. Your notice should be sent, in writing, to Mad Scientist Technologies’ address which is set out at the beginning of these Terms.
+
+12.3 Mad Scientist Technologies may at any time, terminate its legal agreement with you if:
 
 (A) you have breached any provision of the Terms (or have acted in manner which clearly shows that you do not intend to, or are unable to comply with the provisions of the Terms); or
 
@@ -97,15 +103,15 @@
 
 (E) the provision of the Services to you by Mad Scientist Technologies is, in Mad Scientist Technologies’ opinion, no longer commercially viable.
 
-11.4 Nothing in this Section shall affect Mad Scientist Technologies’ rights regarding provision of Services under Section 3 of the Terms.
+12.4 Nothing in this Section shall affect Mad Scientist Technologies’ rights regarding provision of Services under Section 3 of the Terms.
 
-11.5 When these Terms come to an end, all of the legal rights, obligations and liabilities that you and Mad Scientist Technologies have benefited from, been subject to (or which have accrued over time whilst the Terms have been in force) or which are expressed to continue indefinitely, shall be unaffected by this cessation, and the provisions of paragraph 15.6 shall continue to apply to such rights, obligations and liabilities indefinitely.
-<h3>12. EXCLUSION OF WARRANTIES</h3>
-12.1 NOTHING IN THESE TERMS, INCLUDING SECTIONS 12 AND 14, SHALL EXCLUDE OR LIMIT MAD SCIENTIST TECHNOLOGIES’ WARRANTY OR LIABILITY FOR LOSSES WHICH MAY NOT BE LAWFULLY EXCLUDED OR LIMITED BY APPLICABLE LAW. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF CERTAIN WARRANTIES OR CONDITIONS OR THE LIMITATION OR EXCLUSION OF LIABILITY FOR LOSS OR DAMAGE CAUSED BY NEGLIGENCE, BREACH OF CONTRACT OR BREACH OF IMPLIED TERMS, OR INCIDENTAL OR CONSEQUENTIAL DAMAGES. ACCORDINGLY, ONLY THE LIMITATIONS WHICH ARE LAWFUL IN YOUR JURISDICTION WILL APPLY TO YOU AND OUR LIABILITY WILL BE LIMITED TO THE MAXIMUM EXTENT PERMITTED BY LAW.
+12.5 When these Terms come to an end, all of the legal rights, obligations and liabilities that you and Mad Scientist Technologies have benefited from, been subject to (or which have accrued over time whilst the Terms have been in force) or which are expressed to continue indefinitely, shall be unaffected by this cessation, and the provisions of paragraph 15.6 shall continue to apply to such rights, obligations and liabilities indefinitely.
+<h3>13. EXCLUSION OF WARRANTIES</h3>
+13.1 NOTHING IN THESE TERMS, INCLUDING SECTIONS 12 AND 14, SHALL EXCLUDE OR LIMIT MAD SCIENTIST TECHNOLOGIES’ WARRANTY OR LIABILITY FOR LOSSES WHICH MAY NOT BE LAWFULLY EXCLUDED OR LIMITED BY APPLICABLE LAW. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF CERTAIN WARRANTIES OR CONDITIONS OR THE LIMITATION OR EXCLUSION OF LIABILITY FOR LOSS OR DAMAGE CAUSED BY NEGLIGENCE, BREACH OF CONTRACT OR BREACH OF IMPLIED TERMS, OR INCIDENTAL OR CONSEQUENTIAL DAMAGES. ACCORDINGLY, ONLY THE LIMITATIONS WHICH ARE LAWFUL IN YOUR JURISDICTION WILL APPLY TO YOU AND OUR LIABILITY WILL BE LIMITED TO THE MAXIMUM EXTENT PERMITTED BY LAW.
 
-12.2 YOU EXPRESSLY UNDERSTAND AND AGREE THAT YOUR USE OF THE SERVICES IS AT YOUR SOLE RISK AND THAT THE SERVICES ARE PROVIDED "AS IS" AND “AS AVAILABLE.”
+13.2 YOU EXPRESSLY UNDERSTAND AND AGREE THAT YOUR USE OF THE SERVICES IS AT YOUR SOLE RISK AND THAT THE SERVICES ARE PROVIDED "AS IS" AND “AS AVAILABLE.”
 
-12.3 IN PARTICULAR, MAD SCIENTIST TECHNOLOGIES, ITS SUBSIDIARIES AND AFFILIATES, AND ITS LICENSORS DO NOT REPRESENT OR WARRANT TO YOU THAT:
+13.3 IN PARTICULAR, MAD SCIENTIST TECHNOLOGIES, ITS SUBSIDIARIES AND AFFILIATES, AND ITS LICENSORS DO NOT REPRESENT OR WARRANT TO YOU THAT:
 
 (A) YOUR USE OF THE SERVICES WILL MEET YOUR REQUIREMENTS,
 
@@ -115,13 +121,13 @@
 
 (D) THAT DEFECTS IN THE OPERATION OR FUNCTIONALITY OF ANY SOFTWARE PROVIDED TO YOU AS PART OF THE SERVICES WILL BE CORRECTED.
 
-12.4 ANY MATERIAL DOWNLOADED OR OTHERWISE OBTAINED THROUGH THE USE OF THE SERVICES IS DONE AT YOUR OWN DISCRETION AND RISK AND THAT YOU WILL BE SOLELY RESPONSIBLE FOR ANY DAMAGE TO YOUR COMPUTER SYSTEM OR OTHER DEVICE OR LOSS OF DATA THAT RESULTS FROM THE DOWNLOAD OF ANY SUCH MATERIAL.
+13.4 ANY MATERIAL DOWNLOADED OR OTHERWISE OBTAINED THROUGH THE USE OF THE SERVICES IS DONE AT YOUR OWN DISCRETION AND RISK AND THAT YOU WILL BE SOLELY RESPONSIBLE FOR ANY DAMAGE TO YOUR COMPUTER SYSTEM OR OTHER DEVICE OR LOSS OF DATA THAT RESULTS FROM THE DOWNLOAD OF ANY SUCH MATERIAL.
 
-12.5 NO ADVICE OR INFORMATION, WHETHER ORAL OR WRITTEN, OBTAINED BY YOU FROM MAD SCIENTIST TECHNOLOGIES OR THROUGH OR FROM THE SERVICES SHALL CREATE ANY WARRANTY NOT EXPRESSLY STATED IN THE TERMS.
+13.5 NO ADVICE OR INFORMATION, WHETHER ORAL OR WRITTEN, OBTAINED BY YOU FROM MAD SCIENTIST TECHNOLOGIES OR THROUGH OR FROM THE SERVICES SHALL CREATE ANY WARRANTY NOT EXPRESSLY STATED IN THE TERMS.
 
-12.6 MAD SCIENTIST TECHNOLOGIES FURTHER EXPRESSLY DISCLAIMS ALL WARRANTIES AND CONDITIONS OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO THE IMPLIED WARRANTIES AND CONDITIONS OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.
-<h3>13. LIMITATION OF LIABILITY</h3>
-13.1 SUBJECT TO OVERALL PROVISION IN PARAGRAPH 12.1 ABOVE, YOU EXPRESSLY UNDERSTAND AND AGREE THAT MAD SCIENTIST TECHNOLOGIES, ITS SUBSIDIARIES AND AFFILIATES, AND ITS LICENSORS SHALL NOT BE LIABLE TO YOU FOR:
+13.6 MAD SCIENTIST TECHNOLOGIES FURTHER EXPRESSLY DISCLAIMS ALL WARRANTIES AND CONDITIONS OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO THE IMPLIED WARRANTIES AND CONDITIONS OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.
+<h3>14. LIMITATION OF LIABILITY</h3>
+14.1 SUBJECT TO OVERALL PROVISION IN PARAGRAPH 13.1 ABOVE, YOU EXPRESSLY UNDERSTAND AND AGREE THAT MAD SCIENTIST TECHNOLOGIES, ITS SUBSIDIARIES AND AFFILIATES, AND ITS LICENSORS SHALL NOT BE LIABLE TO YOU FOR:
 
 (A) ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL CONSEQUENTIAL OR EXEMPLARY DAMAGES WHICH MAY BE INCURRED BY YOU, HOWEVER CAUSED AND UNDER ANY THEORY OF LIABILITY. THIS SHALL INCLUDE, BUT NOT BE LIMITED TO, ANY LOSS OF PROFIT (WHETHER INCURRED DIRECTLY OR INDIRECTLY), ANY LOSS OF GOODWILL OR BUSINESS REPUTATION, ANY LOSS OF DATA SUFFERED, COST OF PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES, OR OTHER INTANGIBLE LOSS;
 
@@ -137,24 +143,24 @@
 
 (IV) YOUR FAILURE TO KEEP YOUR PASSWORD OR ACCOUNT DETAILS SECURE AND CONFIDENTIAL;
 
-13.2 THE LIMITATIONS ON MAD SCIENTIST TECHNOLOGIES’ LIABILITY TO YOU IN PARAGRAPH 13.1 ABOVE SHALL APPLY WHETHER OR NOT MAD SCIENTIST TECHNOLOGIES HAS BEEN ADVISED OF OR SHOULD HAVE BEEN AWARE OF THE POSSIBILITY OF ANY SUCH LOSSES ARISING.
-<h3>14. Changes to the Terms</h3>
-14.1 Mad Scientist Technologies may make changes to the Terms from time to time. When these changes are made, Mad Scientist Technologies will make a new copy of the Terms available at <a href="http://madscitech.com/about/terms/">http://madscitech.com/about/terms/</a> and any new Additional Terms will be made available to you from within, or through, the affected Services.
+14.2 THE LIMITATIONS ON MAD SCIENTIST TECHNOLOGIES’ LIABILITY TO YOU IN PARAGRAPH 14.1 ABOVE SHALL APPLY WHETHER OR NOT MAD SCIENTIST TECHNOLOGIES HAS BEEN ADVISED OF OR SHOULD HAVE BEEN AWARE OF THE POSSIBILITY OF ANY SUCH LOSSES ARISING.
+<h3>15. Changes to the Terms</h3>
+15.1 Mad Scientist Technologies may make changes to the Terms from time to time. When these changes are made, Mad Scientist Technologies will make a new copy of the Terms available at <a href="http://madscitech.com/about/terms/">http://madscitech.com/about/terms/</a> and any new Additional Terms will be made available to you from within, or through, the affected Services.
 
-14.2 You understand and agree that if you use the Services after the date on which the Terms have changed, Mad Scientist Technologies will treat your use as acceptance of the updated Terms.
-<h3>15. General legal terms</h3>
-15.1 The Terms constitute the whole legal agreement between you and Mad Scientist Technologies and govern your use of the Services (but excluding any services which Mad Scientist Technologies may provide to you under a separate written agreement), and completely replace any prior agreements between you and Mad Scientist Technologies in relation to the Services.
+15.2 You understand and agree that if you use the Services after the date on which the Terms have changed, Mad Scientist Technologies will treat your use as acceptance of the updated Terms.
+<h3>16. General legal terms</h3>
+16.1 The Terms constitute the whole legal agreement between you and Mad Scientist Technologies and govern your use of the Services (but excluding any services which Mad Scientist Technologies may provide to you under a separate written agreement), and completely replace any prior agreements between you and Mad Scientist Technologies in relation to the Services.
 
-15.2 You agree that Mad Scientist Technologies may provide you with notices, including those regarding changes to the Terms, by email, regular mail, or postings on the Services.
+16.2 You agree that Mad Scientist Technologies may provide you with notices, including those regarding changes to the Terms, by email, regular mail, or postings on the Services.
 
-15.3 You agree that if Mad Scientist Technologies does not exercise or enforce any legal right or remedy which is contained in the Terms (or which Mad Scientist Technologies has the benefit of under any applicable law), this will not be taken to be a formal waiver of Mad Scientist Technologies’ rights and that those rights or remedies will still be available to Mad Scientist Technologies.
+16.3 You agree that if Mad Scientist Technologies does not exercise or enforce any legal right or remedy which is contained in the Terms (or which Mad Scientist Technologies has the benefit of under any applicable law), this will not be taken to be a formal waiver of Mad Scientist Technologies’ rights and that those rights or remedies will still be available to Mad Scientist Technologies.
 
-15.4 If any court of law, having the jurisdiction to decide on this matter, rules that any provision of these Terms is invalid, then that provision will be removed from the Terms without affecting the rest of the Terms. The remaining provisions of the Terms will continue to be valid and enforceable.
+16.4 If any court of law, having the jurisdiction to decide on this matter, rules that any provision of these Terms is invalid, then that provision will be removed from the Terms without affecting the rest of the Terms. The remaining provisions of the Terms will continue to be valid and enforceable.
 
-15.5 You acknowledge and agree that each member of the group of companies of which Mad Scientist Technologies is the parent shall be third party beneficiaries to the Terms and that such other companies shall be entitled to directly enforce, and rely upon, any provision of the Terms which confers a benefit on (or rights in favor of) them. Other than this, no other person or company shall be third party beneficiaries to the Terms.
+16.5 You acknowledge and agree that each member of the group of companies of which Mad Scientist Technologies is the parent shall be third party beneficiaries to the Terms and that such other companies shall be entitled to directly enforce, and rely upon, any provision of the Terms which confers a benefit on (or rights in favor of) them. Other than this, no other person or company shall be third party beneficiaries to the Terms.
 
-15.6 The Terms, and your relationship with Mad Scientist Technologies under the Terms, shall be governed by the laws of the State of Illinois without regard to its conflict of laws provisions. You and Mad Scientist Technologies agree to submit to the exclusive jurisdiction of the courts located within the county of Adams, Illinois to resolve any legal matter arising from the Terms. Notwithstanding this, you agree that Mad Scientist Technologies shall still be allowed to apply for injunctive remedies (or an equivalent type of urgent legal relief) in any jurisdiction.
+16.6 The Terms, and your relationship with Mad Scientist Technologies under the Terms, shall be governed by the laws of the State of Illinois without regard to its conflict of laws provisions. You and Mad Scientist Technologies agree to submit to the exclusive jurisdiction of the courts located within the county of Adams, Illinois to resolve any legal matter arising from the Terms. Notwithstanding this, you agree that Mad Scientist Technologies shall still be allowed to apply for injunctive remedies (or an equivalent type of urgent legal relief) in any jurisdiction.
 
-September 1, 2012
+Last Updated: October 18, 2019
 
 <a href="http://madscitech.com/about/terms/">http://madscitech.com/about/terms/</a>
