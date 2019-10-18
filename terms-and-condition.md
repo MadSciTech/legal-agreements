@@ -164,3 +164,5 @@
 Last Updated: October 18, 2019
 
 <a href="http://madscitech.com/about/terms/">http://madscitech.com/about/terms/</a>
+
+<a href="https://github.com/MadSciTech/terms-of-service/commit/1c8e397e7775071c1926614fd0dc0ebbc41dbdc9?short_path=0924a21#diff-0924a210b39ac6a6fdd3ba0459bcea61">View changes</a> to terms and condition from previous version.
