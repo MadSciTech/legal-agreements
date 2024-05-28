@@ -8,8 +8,10 @@ Mad Scientist Technologies ("Company") owns various trademarks, logos, names, an
 ## List of Marks
 
 * Mad Scientist Technologies - Wordmark/Servicemark
-* MadSciTech - word markMad Sci Tech - Wordmark
+* MadSciTech - Wordmark
+* Mad Sci Tech - Wordmark
 * madscitech.com - Domain Name
+* Mad Scientist Technologies Logo - Logo/Graphic
 * Mad Scientist Technologies Star - Logo/Graphic
 
 Please note that this list is not exhaustive and may be updated from time to time. For any inquiries regarding the use of these Marks or to request approval for any usage not covered under this policy, please contact us at staff@madscitech.com.
@@ -63,7 +65,7 @@ The Company reserves the right to modify this Trademark Policy at any time witho
 
 By using our Marks, you agree to comply with this Trademark Policy. If you do not agree with these terms, you must refrain from using our Marks in any way.
 
-Mad Scientist Technologies
+Mad Scientist Technologies LLC
 3100 State Street Suite A4
 Quincy, Illinois 62301-5737
 MadSciTech.com
