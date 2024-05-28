@@ -1,0 +1,3 @@
+<h3>Mad Scientist Technologies' Content License</h3>
+<p>Most of the written content published by Mad Scientist Technologies' is licensed under the <a href="http://creativecommons.org/licenses/by-nc-nd/3.0/us/">Creative Commons Attribution - Non Commercial - No Derivative 3.0 License</a>, unless specified otherwise.</p>
+<p>Any or All graphics, designs, and brand features are licensed under our <a href="http://madscitech.com/about/trademarks/" title="Trademarks">Trademark Agreement</a>.</p>
