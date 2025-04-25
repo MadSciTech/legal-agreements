@@ -18,7 +18,7 @@ Mad Scientist Technologies LLC utilizes AI in various areas to enhance our opera
 - **Improving professionalism, tone, grammar, and spelling** in written content  
 - **Product recommendations** (on a case-by-case basis)
 
-We do **not** use AI for **hiring** or **customer/client assessments** but may explore these applications in the future. However, we **do** use AI currently  **operational decisions** and **automation**.
+We do **not** use AI for **hiring** or **customer/client assessments** but may explore these applications in the future. However, we **do** use AI currently for **operational decisions** and **automation**.
 
 
 ## 3. Third-Party AI Providers
